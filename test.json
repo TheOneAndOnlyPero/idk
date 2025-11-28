@@ -1,3 +1,6 @@
 [
-  {"sigma info": 1}
+  "sigma": {
+    "mangos": 67,
+    "tuffness": "very"
+  }
 ]
