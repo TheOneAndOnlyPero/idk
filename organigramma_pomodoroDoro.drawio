@@ -1,0 +1,142 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Pagina-1" id="nhW8hnMOVf3TDeQ0GB5R">
+    <mxGraphModel dx="2242" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Fmi-0_Wx-hXjWM_8rLzE-4" edge="1" parent="1" source="Fmi-0_Wx-hXjWM_8rLzE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" target="Fmi-0_Wx-hXjWM_8rLzE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fmi-0_Wx-hXjWM_8rLzE-7" edge="1" parent="1" source="Fmi-0_Wx-hXjWM_8rLzE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="Fmi-0_Wx-hXjWM_8rLzE-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="260" />
+              <mxPoint x="240" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fmi-0_Wx-hXjWM_8rLzE-8" edge="1" parent="1" source="Fmi-0_Wx-hXjWM_8rLzE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="Fmi-0_Wx-hXjWM_8rLzE-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="260" />
+              <mxPoint x="80" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fmi-0_Wx-hXjWM_8rLzE-11" edge="1" parent="1" source="Fmi-0_Wx-hXjWM_8rLzE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="Fmi-0_Wx-hXjWM_8rLzE-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="180" />
+              <mxPoint x="400" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fmi-0_Wx-hXjWM_8rLzE-12" edge="1" parent="1" source="Fmi-0_Wx-hXjWM_8rLzE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="Fmi-0_Wx-hXjWM_8rLzE-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="260" />
+              <mxPoint x="560" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSRzsEUrkIK2KVfxs-Gc-4" edge="1" parent="1" source="Fmi-0_Wx-hXjWM_8rLzE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="jSRzsEUrkIK2KVfxs-Gc-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="260" />
+              <mxPoint x="880" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fmi-0_Wx-hXjWM_8rLzE-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Direttore&lt;/b&gt;&lt;div&gt;(Giovanni Bernasconi)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Fmi-0_Wx-hXjWM_8rLzE-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Assistente di direzione&lt;/b&gt;&lt;div&gt;(Laura Conti&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="500" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="jSRzsEUrkIK2KVfxs-Gc-6" edge="1" parent="1" source="Fmi-0_Wx-hXjWM_8rLzE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="jSRzsEUrkIK2KVfxs-Gc-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jSRzsEUrkIK2KVfxs-Gc-21" edge="1" parent="1" source="Fmi-0_Wx-hXjWM_8rLzE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="jSRzsEUrkIK2KVfxs-Gc-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="380" />
+              <mxPoint x="240" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fmi-0_Wx-hXjWM_8rLzE-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Produzione&lt;/b&gt;&lt;div&gt;(Marco Frapolli)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Fmi-0_Wx-hXjWM_8rLzE-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Responsabile di qualità&lt;/b&gt;&lt;br&gt;&lt;div&gt;(Francesca Moretti)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Fmi-0_Wx-hXjWM_8rLzE-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;Marketing&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(Alessandro Greco)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Fmi-0_Wx-hXjWM_8rLzE-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Logistica&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(Chiara De Santis)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="500" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="jSRzsEUrkIK2KVfxs-Gc-1" edge="1" parent="1" source="Fmi-0_Wx-hXjWM_8rLzE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="jSRzsEUrkIK2KVfxs-Gc-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="260" />
+              <mxPoint x="720" y="260" />
+            </Array>
+            <mxPoint x="570" y="100" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSRzsEUrkIK2KVfxs-Gc-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;Finanze&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(Roberto Fabbri)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="660" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="jSRzsEUrkIK2KVfxs-Gc-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;IT&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(Elena Bassi)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="820" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="jSRzsEUrkIK2KVfxs-Gc-10" edge="1" parent="1" source="jSRzsEUrkIK2KVfxs-Gc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="jSRzsEUrkIK2KVfxs-Gc-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jSRzsEUrkIK2KVfxs-Gc-11" edge="1" parent="1" source="jSRzsEUrkIK2KVfxs-Gc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="jSRzsEUrkIK2KVfxs-Gc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jSRzsEUrkIK2KVfxs-Gc-12" edge="1" parent="1" source="jSRzsEUrkIK2KVfxs-Gc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="jSRzsEUrkIK2KVfxs-Gc-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jSRzsEUrkIK2KVfxs-Gc-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Team operativi&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="jSRzsEUrkIK2KVfxs-Gc-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Team linea classico&lt;/b&gt;&lt;br&gt;&lt;div&gt;(Luca Ferri)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-300" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="jSRzsEUrkIK2KVfxs-Gc-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Team linea Bio&lt;/b&gt;&lt;br&gt;&lt;div&gt;(Sara Vitale)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-140" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="jSRzsEUrkIK2KVfxs-Gc-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Team linea Gourmet&lt;/b&gt;&lt;br&gt;&lt;div&gt;(Matteo Leoni)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="jSRzsEUrkIK2KVfxs-Gc-23" edge="1" parent="1" source="jSRzsEUrkIK2KVfxs-Gc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="jSRzsEUrkIK2KVfxs-Gc-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jSRzsEUrkIK2KVfxs-Gc-26" edge="1" parent="1" source="jSRzsEUrkIK2KVfxs-Gc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="jSRzsEUrkIK2KVfxs-Gc-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jSRzsEUrkIK2KVfxs-Gc-27" edge="1" parent="1" source="jSRzsEUrkIK2KVfxs-Gc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="jSRzsEUrkIK2KVfxs-Gc-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jSRzsEUrkIK2KVfxs-Gc-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Coordinamento&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="jSRzsEUrkIK2KVfxs-Gc-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Linea classico&lt;/b&gt;&lt;br&gt;&lt;div&gt;(Giulia Neri)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="jSRzsEUrkIK2KVfxs-Gc-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Linea Bio&lt;/b&gt;&lt;br&gt;&lt;div&gt;(Davide Gallo)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="jSRzsEUrkIK2KVfxs-Gc-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Linea Gourmet&lt;/b&gt;&lt;br&gt;&lt;div&gt;(Irene Costa)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="500" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="jSRzsEUrkIK2KVfxs-Gc-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Struttura Organizzativa Funzionale&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;(Pomodoro D&#39;oro)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="250" x="-300" y="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
